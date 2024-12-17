@@ -9,3 +9,12 @@ Create md file by [MarkItDown](https://github.com/microsoft/markitdown)
 * Put `mid.py` on any directory which has the file you want to convert into markdown file.
 * Run mid.py.  
   `python mid.py <file_name>`
+
+
+## Note
+This is just test code for running in Python code.  
+You can easilly convert your file by markitdown in command line tool.  
+Example:  
+```
+$ markitdown hoge.pdf > hoge.md
+```
